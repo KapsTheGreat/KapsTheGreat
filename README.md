@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KapsTheGreat
-- 👀 I’m interested in Animation, Gaming, and Music
-- 🌱 I’m currently learning C++ and Game Design
+- 👀 I’m interested in Animation, Gaming, Music, and Game Design
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: kappitusthegreat@gmail.com
 
 <!---
